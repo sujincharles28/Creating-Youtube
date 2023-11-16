@@ -62,4 +62,4 @@ Embark on your exploration of the YouTube Clone project by following these strai
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://github.com/sujincharles28/Creating-Youtube.git
