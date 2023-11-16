@@ -10,10 +10,10 @@ This project is a YouTube clone that replicates the home page's design and funct
 2. [Project Structure](#project-structure)
 3. [Features](#features)
 4. [Screenshots](#screenshots)
-6. [Installation](#installation)
-7. [Usage](#usage)
-8. [Contributing](#contributing)
-9. [License](#license)
+5. [Installation](#installation)
+6. [Usage](#usage)
+7. [Contributing](#contributing)
+8. [License](#license)
 
 ## Technologies Used
 
@@ -38,9 +38,6 @@ The project follows a structured progression, covering key concepts in web devel
 12. **Flexbox:** Explores and uses Flexbox for responsive and dynamic layouts.
 13. **Nested Flexbox:** Incorporates nested Flexbox for advanced layout structuring.
 14. **CSS Position:** Understands and applies the CSS position property for element positioning.
-15. **Position Absolute and Relative:** Explores specific use cases of absolute and relative positioning.
-16. **Finish the Project:** Adds final touches and refinements to complete the YouTube clone.
-17. **More CSS Features:** Expands the project with additional CSS features and styling.
 
 ## Features
 
@@ -51,11 +48,10 @@ The project follows a structured progression, covering key concepts in web devel
 
 ## Screenshots
 
-![Screenshot 1](*![Uploading Screenshot 2023-11-16 at 8.43.29 PM.png…]())
-*Caption: Home page with thumbnail previews.
+![Home Page](/Users/sujincharles/Desktop/Screenshot%202023-11-16%20at%208.43.29%20PM.png)
+*Caption: Home page with thumbnail previews.*
 
-
-![Screenshot 2](screenshots/screenshot2.png)
+![Hover Effects](/Users/sujincharles/Desktop/Screenshot%202023-11-16%20at%209.16.14%20PM.png)
 *Caption: Hover effects on icons with tooltips.*
 
 ## Installation
