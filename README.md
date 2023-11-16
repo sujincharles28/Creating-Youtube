@@ -10,10 +10,10 @@ This project is a YouTube clone that replicates the home page's design and funct
 2. [Project Structure](#project-structure)
 3. [Features](#features)
 4. [Screenshots](#screenshots)
-5. [Installation](#installation)
-6. [Usage](#usage)
-7. [Contributing](#contributing)
-8. [License](#license)
+6. [Installation](#installation)
+7. [Usage](#usage)
+8. [Contributing](#contributing)
+9. [License](#license)
 
 ## Technologies Used
 
@@ -51,7 +51,7 @@ The project follows a structured progression, covering key concepts in web devel
 
 ## Screenshots
 
-![Screenshot 1](screenshots/screenshot1.png)
+![Screenshot 1](/Users/sujincharles/Desktop)
 *Caption: Home page with thumbnail previews.*
 
 ![Screenshot 2](screenshots/screenshot2.png)
