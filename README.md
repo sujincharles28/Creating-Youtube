@@ -48,10 +48,12 @@ The project follows a structured progression, covering key concepts in web devel
 
 ## Screenshots
 
-![Home Page](/Users/sujincharles/Desktop/Screenshot%202023-11-16%20at%208.43.29%20PM.png)
+![Home Page] <img width="1332" alt="Screenshot 2023-11-16 at 8 43 29 PM" src="https://github.com/sujincharles28/Creating-Youtube/assets/103139319/82ebf18b-ed4a-4afe-a625-43dd50ba4e02">
+
 *Caption: Home page with thumbnail previews.*
 
-![Hover Effects](/Users/sujincharles/Desktop/Screenshot%202023-11-16%20at%209.16.14%20PM.png)
+![Hover Effects] <img width="324" alt="Screenshot 2023-11-16 at 9 16 14 PM" src="https://github.com/sujincharles28/Creating-Youtube/assets/103139319/0803077c-bd3a-4a7a-93de-e466bb0a8c11">
+
 *Caption: Hover effects on icons with tooltips.*
 
 ## Installation
