@@ -51,8 +51,9 @@ The project follows a structured progression, covering key concepts in web devel
 
 ## Screenshots
 
-![Screenshot 1](/Users/sujincharles/Desktop)
-*Caption: Home page with thumbnail previews.*
+![Screenshot 1](*![Uploading Screenshot 2023-11-16 at 8.43.29 PM.png…]())
+*Caption: Home page with thumbnail previews.
+
 
 ![Screenshot 2](screenshots/screenshot2.png)
 *Caption: Hover effects on icons with tooltips.*
