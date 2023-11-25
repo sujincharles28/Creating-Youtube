@@ -49,13 +49,13 @@ The project follows a structured progression, covering key concepts in web devel
 ## Screenshots
 
 <img width="1440" alt="Screenshot 2023-11-25 at 12 37 25 PM" src="https://github.com/sujincharles28/Creating-Youtube/assets/103139319/30fbb11f-9cef-443e-ae65-a9075c551646">
-*Home page with thumbnail previews.*
+Home page with thumbnail previews.
 
 <br>
 
 <img width="324" alt="Screenshot 2023-11-16 at 9 16 14 PM" src="https://github.com/sujincharles28/Creating-Youtube/assets/103139319/0803077c-bd3a-4a7a-93de-e466bb0a8c11">
 
-*Hover effects on icons with tooltips.*
+Hover effects on icons with tooltips.
 
 ## Installation
 
