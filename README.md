@@ -48,8 +48,7 @@ The project follows a structured progression, covering key concepts in web devel
 
 ## Screenshots
 
-<img width="1332" alt="Screenshot 2023-11-16 at 8 43 29 PM" src="https://github.com/sujincharles28/Creating-Youtube/assets/103139319/82ebf18b-ed4a-4afe-a625-43dd50ba4e02">
-
+<img width="1440" alt="Screenshot 2023-11-25 at 12 37 25 PM" src="https://github.com/sujincharles28/Creating-Youtube/assets/103139319/30fbb11f-9cef-443e-ae65-a9075c551646">
 *Home page with thumbnail previews.*
 
 <br>
